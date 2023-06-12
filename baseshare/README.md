@@ -59,5 +59,9 @@ pnpm run preview
 # yarn
 yarn preview
 ```
+Now you can run the following commands to lint your code:
+
+- **`yarn lint`** or **`npm run lint`**: Check for linting issues.
+- **`yarn lint:fix`** or **`npm run lint:fix`**: Automatically fix linting issues.
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
